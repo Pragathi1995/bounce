@@ -1,2 +1,2 @@
-# bounce
-to bounce two rectangles or objects
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
